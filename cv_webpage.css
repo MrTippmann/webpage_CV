@@ -1,0 +1,180 @@
+/*Body*/
+
+#body {
+    background-image: url('images/task24_body_background.webp');
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    min-width: 100%;
+    min-height: 100%;
+}
+
+/*Header*/
+
+#header_banner {
+    background-image: url('images/task24_banner_image.webp');
+    height: 150px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: table;
+}
+
+#header_text {
+    text-align: center;
+    color: aliceblue;
+    padding-top: 40px;
+}
+
+/*Bio*/
+
+#bio_header {
+    color: white;
+    padding-top: 50px;
+    padding-left: 50px;
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+#p1 {
+    color: white;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+#p2 {
+    float: left;
+    color: white;
+    padding-top: 30px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+#p3 {
+    float: left;
+    color: white;
+    padding-top: 30px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+
+/*Contact*/
+
+#contact_header {
+    color: white;
+    padding-top: 0px;
+    padding-right: 200px;
+    float: right;
+    text-decoration: underline;
+}
+
+#contact_list{
+    color: white;
+    float: right;
+    padding-top: 60px;
+    margin-right: -300px;
+    font-size: 20px;
+}
+
+#git {
+    color: red;
+}
+
+#link {
+    color: red;
+}
+
+#git:hover {
+    color: white;
+}
+
+#link:hover {
+    color:white;
+}
+
+/*Skills*/
+
+#skills_header {
+    color: white;
+    float: left;
+    text-decoration: underline;
+    margin-left: -1020px;
+    padding-top: 80px;
+    font-size: 25px;
+}
+
+#skills_list {
+    color: white;
+    float: left;
+    margin-left: -1050px;
+    padding-top: 135px;
+    font-size: 18px;
+}
+
+/*Education*/
+
+#education_header {
+    color: white;
+    float: left;
+    text-decoration: underline;
+    margin-left: -1020px;
+    padding-top: 270px;
+    font-size: 25px;
+}
+
+#p4 {
+    color: white;
+    float: left;
+    margin-left: -1020px;
+    padding-top: 350px;
+    font-size: 18px;
+}
+
+#p5 {
+    color: white;
+    float: left;
+    margin-left: -1020px;
+    padding-top: 385px;
+    font-size: 18px;
+}
+
+/*Work experience*/
+
+#work_experience_header {
+    color: white;
+    float: left;
+    text-decoration: underline;
+    margin-left: -1020px;
+    padding-top: 380px;
+    font-size: 25px;
+}
+
+#p6 {
+    color: white;
+    float: left;
+    margin-left: -1020px;
+    padding-top: 480px;
+    font-size: 18px;
+}
+
+#p7 {
+    color: white;
+    float: left;
+    margin-left: -1020px;
+    padding-top: 510px;
+    font-size: 18px;
+}
+
+/*photo of me*/
+
+#photo_of_me {
+    margin-top: 100px;
+    width: 380px;
+    height: 420px;
+    float: right;
+}
+
+
+
+
